@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **advanced Laravel & backend architecture**
 - 🛠 I love turning ideas into real web applications
 - 🎯 Goal: Become a professional **Full Stack Developer**
-- ⚡ Fun fact: I enjoy solving coding problems more than video games 😄
 
 ---
 
@@ -45,19 +44,11 @@ A full web platform with authentication, admin panel and database management.
 
 ---
 
-## 📊 GitHub Stats
-
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
-- 🌍 Portfolio: *(future website 😉)*
+- 💼 LinkedIn:(https://www.linkedin.com/in/mohammed-amine-elboukbiri-b4a332365/)
+- 📧 Email: mohamedamineelboukbiri@gmail.com
 
 ---
 
