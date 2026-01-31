@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋 I'm Amine
 
-<!--
-**mohammed-amine-elboukbiri/mohammed-amine-elboukbiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in Computer Science  
+💻 Passionate about Web Development  
+🚀 Currently building projects with **Laravel, PHP, Java & Databases**  
+📍 Based in Morocco  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌱 I’m currently learning **advanced Laravel & backend architecture**
+- 🛠 I love turning ideas into real web applications
+- 🎯 Goal: Become a professional **Full Stack Developer**
+- ⚡ Fun fact: I enjoy solving coding problems more than video games 😄
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### 🌐 Web
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛢 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+🔹 **University Platform (Laravel)**  
+A full web platform with authentication, admin panel and database management.  
+👉 [View Project](https://github.com/your-username/1-Platform-Universitaire)
+
+🔹 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(add link)*
+- 📧 Email: *(add email)*
+- 🌍 Portfolio: *(future website 😉)*
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
